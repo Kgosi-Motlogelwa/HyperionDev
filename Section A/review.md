@@ -31,7 +31,7 @@ ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 ```
 <!-- COMMENTS -->
-Your logic was pretty good and you were almost there. Here are some errors:<br>
+Your logic was pretty good and you were almost there. Here are some errors:<br><br>
 (1) Indentation on line 2. You've indented well everywhere else. Backspace line 2 to the left a couple of times.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;***Extra Note: As you may know, when coding it's often really small things like these you need to check when your stuck. Most IDE's will help you with indenting. Google linting.*** <br>
 (2) Forgot to add i to sorted() - sorted(i) on line 5. i being the word you wanted to sort in list strs.<br>
