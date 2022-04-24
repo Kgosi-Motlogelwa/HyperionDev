@@ -1,0 +1,2 @@
+The displayed test seen in the browser has a big-O of 0(1). The solution requires no looping if only one input is used.
+The output seen in the console has a big-0 of 0(n). The test data is in the form of an array and is looped over to quickly show the validity of the solution without user input.
