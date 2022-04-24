@@ -1,3 +1,4 @@
+```
 class Solution:
        def groupAnagrams(self, strs):
       result = {}
@@ -10,10 +11,10 @@ class Solution:
       return list(result.values())
 ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
-
+```
 <!-- SEE HELP BELOW -->
 From what I gather, the code below is the correct conclusion to the logical pathway you were taking. Look at, and test the code to see if the output is what you had envisioned. 
-
+```
 class Solution: 
   def groupAnagrams(self, strs):
     result = {}
@@ -28,7 +29,7 @@ class Solution:
     return list(result.values())
 ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
-
+```
 <!-- COMMENTS -->
 Your logic was pretty good and you were almost there. Here are some errors:
 (1) Indentation on line 2. You've indented well everywhere else. Backspace line 2 to the left a couple of times. 
