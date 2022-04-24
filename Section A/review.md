@@ -37,10 +37,10 @@ Your logic was pretty good and you were almost there. Here are some errors:
 (2) Forgot to add i to sorted() - sorted(i) on line 5. i being the word you wanted to sort in list strs.
       Extra Note: I added an additional print statement after the line the error was on. Remove after viewing. Programmers often do this to confirm if their solution is still progressing as they envision it. It's hard to hold a lot of code in your head at one time. You could have caught the error before writing the if statements or afterwards.
 
-(CORRECTNESS):    Aside from a few small error the path you were heading in is correct.
-(EFFICIENCY):     It's good you used a sorting technique and limited the amount of looping. 
-(STYLE):          Code was well written.
-(DOCUMENTATION):  Your lack of comments is fine for a piece of code this small, especially because of the names given to the class and method you created. Using descriptive names in place of comments is good practice. This could have been applied for variables x, i and strs. 
+:(CORRECTNESS):    Aside from a few small error the path you were heading in is correct.
+:(EFFICIENCY):     It's good you used a sorting technique and limited the amount of looping. 
+:(STYLE):          Code was well written.
+:(DOCUMENTATION):  Your lack of comments is fine for a piece of code this small, especially because of the names given to the class and method you created. Using descriptive names in place of comments is good practice. This could have been applied for variables x, i and strs. 
 
 
 
