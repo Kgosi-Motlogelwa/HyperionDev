@@ -1,2 +1,1 @@
-# HyperionDev
-Freelance Code Reviewer Job Application Assessment - HyperionDev
+No Setup Required. Solution fully contained in review.md
